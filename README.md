@@ -24,7 +24,6 @@ An IoT-enabled contactless hygiene station that automates the handwashing proces
 4. Units communicate via **HTTP GET** requests to coordinate each stage.
 
 ## Demo & Screenshots
-*(Replace these with your images)*  
 ![Water Dispenser Dashboard](./pictures/dashboard/water_dashboard.png)  
 ![Soap Dispenser Dashboard](./pictures/dashboard/soap_dashboard.png)  
 ![Tissue Dispenser Dashboard](./pictures/dashboard/tissue_dashboard.png)  
